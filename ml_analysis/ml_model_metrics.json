@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-13T10:25:56.256496",
+  "models_trained": {
+    "customer_segmentation": {
+      "algorithm": "K-Means",
+      "clusters": 4,
+      "description": "Vietnamese customer clustering"
+    },
+    "churn_prediction": {
+      "algorithm": "Random Forest",
+      "accuracy": 0.87,
+      "description": "Vietnamese customer churn prediction"
+    }
+  },
+  "insights": {
+    "vip_customers": 102,
+    "high_risk_customers": 72,
+    "total_revenue": 3485185.08,
+    "average_revenue_per_customer": 3485.19
+  },
+  "market_insights": {
+    "top_vietnamese_cities": [
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Da Nang"
+    ],
+    "regions_coverage": [
+      "North",
+      "South",
+      "Central",
+      "Central Highlands"
+    ],
+    "target_markets": [
+      "Urban professionals",
+      "Students",
+      "Families",
+      "Business users"
+    ]
+  }
+}

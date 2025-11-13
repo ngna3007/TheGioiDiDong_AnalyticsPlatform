@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-11-13T10:59:12.888112",
+  "record_counts": {
+    "customers": 5000,
+    "products": 500,
+    "orders": 15017,
+    "sellers": 500
+  },
+  "revenue_analysis": {
+    "total_revenue": 4227537.11,
+    "avg_order_value": 281.5167550109876
+  },
+  "data_quality_score": 98.5,
+  "vietnamese_data": {
+    "customers_with_ascii_names": 5000,
+    "total_customers": 5000,
+    "ascii_conversion_percentage": 100.0,
+    "sellers_with_ascii_names": 500,
+    "total_sellers": 500,
+    "seller_ascii_percentage": 100.0
+  }
+}

@@ -1,0 +1,501 @@
+seller_id,seller_name,seller_email,seller_phone,seller_zip_code_prefix,seller_city,seller_state
+seller_001,Duong Tung Hung,duong.tung.hung944@thegioididong.com,095201343,592325,Nha Trang,Khanh Hoa
+seller_002,Le Thien Chuong,le.thien.chuong790@thegioididong.com,097953994,527738,Thanh Hoa,Thanh Hoa
+seller_003,Ho Xuan Mai,ho.xuan.mai078@thegioididong.com,093164528,378183,Can Tho,Can Tho
+seller_004,Thoi Minh Tan,thoi.minh.tan832@thegioididong.com,095437368,780392,Hai Phong,Hai Phong
+seller_005,To Thanh Son,to.thanh.son983@thegioididong.com,098262322,827185,Da Lat,Lam Dong
+seller_006,Ho Manh Quoc,ho.manh.quoc693@thegioididong.com,096698676,858522,Nam Dinh,Nam Dinh
+seller_007,Yen Hung Giau,yen.hung.giau495@thegioididong.com,098843384,984807,Nha Trang,Khanh Hoa
+seller_008,Chu Huu Khang,chu.huu.khang116@thegioididong.com,096832391,443861,Quy Nhon,Binh Dinh
+seller_009,Kim Thanh Chuong,kim.thanh.chuong431@thegioididong.com,093804156,790674,Rach Gia,Kien Giang
+seller_010,Ho Thanh Dai,ho.thanh.đai719@thegioididong.com,097722945,720999,Thu Dau Mot,Binh Duong
+seller_011,Thai Giang Chinh,thai.giang.chinh026@thegioididong.com,092636021,126730,Pleiku,Gia Lai
+seller_012,Ho Phuong Thao,ho.phuong.thao154@thegioididong.com,095465532,642824,Phan Thiet,Binh Thuan
+seller_013,Bui Tuyet Giang,bui.tuyet.giang633@thegioididong.com,096729348,600263,Nha Trang,Khanh Hoa
+seller_014,Thoi Phuc Dat,thoi.phuc.đat161@thegioididong.com,096540658,928635,Can Tho,Can Tho
+seller_015,Ngo Thao Cuc,ngo.thao.cuc567@thegioididong.com,094799454,449265,Vinh,Nghe An
+seller_016,Ong Minh Phi,ong.minh.phi919@thegioididong.com,098493694,480486,Hai Phong,Hai Phong
+seller_017,Dang Yen My,đang.yen.my938@thegioididong.com,095503297,182471,Tuy Hoa,Phu Yen
+seller_018,Dinh Gia Chuong,đinh.gia.chuong097@thegioididong.com,093449769,127798,Buon Ma Thuot,Dak Lak
+seller_019,Cao Hoang Phi,cao.hoang.phi871@thegioididong.com,099712595,518008,Thu Dau Mot,Binh Duong
+seller_020,Truong Phuc Khiem,truong.phuc.khiem180@thegioididong.com,097178792,354468,Quang Ninh,Quang Ninh
+seller_021,Vo Ngan Nhi,vo.ngan.nhi339@thegioididong.com,092242345,111516,Hue,Thua Thien Hue
+seller_022,Thoi Linh Huong,thoi.linh.huong382@thegioididong.com,095450150,688763,Quy Nhon,Binh Dinh
+seller_023,Ung Anh Ly,ung.anh.ly447@thegioididong.com,091211629,719494,Tuy Hoa,Phu Yen
+seller_024,Ton Anh Tuyen,ton.anh.tuyen841@thegioididong.com,095819519,395300,Thu Dau Mot,Binh Duong
+seller_025,Lam Le Han,lam.le.han558@thegioididong.com,093173867,100806,Hanoi,Hanoi
+seller_026,Nguyen Giang Loan,nguyen.giang.loan641@thegioididong.com,095163004,628234,Bien Hoa,Dong Nai
+seller_027,Dinh Le Hoa,đinh.le.hoa383@thegioididong.com,091137412,151737,Tuy Hoa,Phu Yen
+seller_028,Ho Loc Nam,ho.loc.nam889@thegioididong.com,098211851,743155,Ho Chi Minh City,HCMC
+seller_029,Ha Xuan Trinh,ha.xuan.trinh060@thegioididong.com,096543748,588558,Can Tho,Can Tho
+seller_030,Bui Chi Tu,bui.chi.tu316@thegioididong.com,093324838,316077,Vinh,Nghe An
+seller_031,Ha Son Tung,ha.son.tung817@thegioididong.com,093761446,795522,Dong Ha,Quang Tri
+seller_032,Nguyen Thanh My,nguyen.thanh.my234@thegioididong.com,095809291,947797,Nam Dinh,Nam Dinh
+seller_033,Tran Duy Tung,tran.duy.tung840@thegioididong.com,094214402,320830,Tam Ky,Quang Nam
+seller_034,Kim Kiet Truong,kim.kiet.truong596@thegioididong.com,096977066,105636,Ha Tinh,Ha Tinh
+seller_035,Pham Long Thai,pham.long.thai483@thegioididong.com,099018677,377921,Vung Tau,Ba Ria-Vung Tau
+seller_036,Tran Phuong Linh,tran.phuong.linh670@thegioididong.com,099843264,834688,Quang Ninh,Quang Ninh
+seller_037,Phan Phuc Tai,phan.phuc.tai307@thegioididong.com,097460434,786727,Phan Thiet,Binh Thuan
+seller_038,Lam Kim Nhi,lam.kim.nhi374@thegioididong.com,093397402,611033,Tam Ky,Quang Nam
+seller_039,Nguyen Xuan Mai,nguyen.xuan.mai035@thegioididong.com,096710202,310245,Long Xuyen,An Giang
+seller_040,Cao Duy Khoa,cao.duy.khoa590@thegioididong.com,093627217,713334,Ho Chi Minh City,HCMC
+seller_041,Kim Hoang Duc,kim.hoang.đuc895@thegioididong.com,096280746,306986,Can Tho,Can Tho
+seller_042,Vo Le Nga,vo.le.nga712@thegioididong.com,099570363,801697,Pleiku,Gia Lai
+seller_043,Ong Chi Ha,ong.chi.ha673@thegioididong.com,096956195,509638,Vinh,Nghe An
+seller_044,Chu Manh Dat,chu.manh.đat789@thegioididong.com,094535992,908243,Nam Dinh,Nam Dinh
+seller_045,Ha Minh Tai,ha.minh.tai950@thegioididong.com,092126771,542279,Rach Gia,Kien Giang
+seller_046,Luu Diem Nhu,luu.diem.nhu495@thegioididong.com,094956312,745026,Thai Nguyen,Thai Nguyen
+seller_047,Phan Hoai Gia,phan.hoai.gia171@thegioididong.com,096991348,769038,Da Lat,Lam Dong
+seller_048,Vu Tuyet Chinh,vu.tuyet.chinh256@thegioididong.com,097918997,911506,Ha Tinh,Ha Tinh
+seller_049,Ho Yen Phong,ho.yen.phong411@thegioididong.com,092218514,770710,Dong Hoi,Quang Binh
+seller_050,Do Hung Dai,đo.hung.đai350@thegioididong.com,094510394,628205,Rach Gia,Kien Giang
+seller_051,Tran Duyen Trang,tran.duyen.trang793@thegioididong.com,092487855,753792,Bien Hoa,Dong Nai
+seller_052,Dang Hoang Long,đang.hoang.long872@thegioididong.com,095885166,624511,Tuy Hoa,Phu Yen
+seller_053,Hoang Phong Linh,hoang.phong.linh471@thegioididong.com,098637322,143012,Nha Trang,Khanh Hoa
+seller_054,Hoang Quynh Loan,hoang.quynh.loan547@thegioididong.com,099427734,289852,Thu Dau Mot,Binh Duong
+seller_055,Ton Kiet Vu,ton.kiet.vu551@thegioididong.com,092945422,105805,Phan Thiet,Binh Thuan
+seller_056,Trieu Quoc Quyet,trieu.quoc.quyet680@thegioididong.com,093352295,378542,Tam Ky,Quang Nam
+seller_057,Ha Hung Phong,ha.hung.phong158@thegioididong.com,092660551,757334,Dong Hoi,Quang Binh
+seller_058,Ngo Diem Ai,ngo.diem.ai011@thegioididong.com,095902337,801568,Vinh,Nghe An
+seller_059,Hoang Quoc Khang,hoang.quoc.khang352@thegioididong.com,096511917,413330,Phan Thiet,Binh Thuan
+seller_060,Luu Lan Giang,luu.lan.giang256@thegioididong.com,092293445,796319,Ho Chi Minh City,HCMC
+seller_061,Nguyen Yen Loan,nguyen.yen.loan159@thegioididong.com,099961731,702605,Ho Chi Minh City,HCMC
+seller_062,Tran Trung Thien,tran.trung.thien793@thegioididong.com,095889545,770780,Can Tho,Can Tho
+seller_063,Ung Hung Quyet,ung.hung.quyet992@thegioididong.com,095404749,444891,Buon Ma Thuot,Dak Lak
+seller_064,Ton Anh Thuy,ton.anh.thuy773@thegioididong.com,099317710,798370,Pleiku,Gia Lai
+seller_065,Thai Kiet Long,thai.kiet.long315@thegioididong.com,099544805,845401,Long Xuyen,An Giang
+seller_066,Ngo Minh Tam,ngo.minh.tam005@thegioididong.com,096445888,614141,Da Lat,Lam Dong
+seller_067,Ung Tung Tu,ung.tung.tu366@thegioididong.com,097893094,537946,Hue,Thua Thien Hue
+seller_068,Luu Thanh Xuan,luu.thanh.xuan848@thegioididong.com,098946759,823633,Da Nang,Da Nang
+seller_069,Ly Minh Bao,ly.minh.bao726@thegioididong.com,095201822,362840,Pleiku,Gia Lai
+seller_070,Ngo Ngan Linh,ngo.ngan.linh402@thegioididong.com,095770028,796747,Ho Chi Minh City,HCMC
+seller_071,Le Gia Nghia,le.gia.nghia551@thegioididong.com,091254178,535417,Rach Gia,Kien Giang
+seller_072,Ho Thi Xuan,ho.thi.xuan099@thegioididong.com,098411184,319223,Can Tho,Can Tho
+seller_073,Trinh Giang Ngoc,trinh.giang.ngoc830@thegioididong.com,095705908,990872,Tuy Hoa,Phu Yen
+seller_074,Chu Quan Toan,chu.quan.toan602@thegioididong.com,095372074,190969,Da Nang,Da Nang
+seller_075,Pham Xuan Han,pham.xuan.han032@thegioididong.com,096798526,144474,Da Lat,Lam Dong
+seller_076,Luu Xuan Tuan,luu.xuan.tuan271@thegioididong.com,098576104,593420,Ha Tinh,Ha Tinh
+seller_077,Hoang Hao Hieu,hoang.hao.hieu140@thegioididong.com,096334172,115583,Hai Phong,Hai Phong
+seller_078,Nguyen Kiet Thai,nguyen.kiet.thai382@thegioididong.com,092991838,671037,Vung Tau,Ba Ria-Vung Tau
+seller_079,Cao Hao Thinh,cao.hao.thinh514@thegioididong.com,098664431,539701,Quy Nhon,Binh Dinh
+seller_080,Trieu Nam Nghia,trieu.nam.nghia566@thegioididong.com,097441246,952832,Buon Ma Thuot,Dak Lak
+seller_081,Truong Long Vu,truong.long.vu949@thegioididong.com,092150737,828807,Tuy Hoa,Phu Yen
+seller_082,To Trang Cuc,to.trang.cuc452@thegioididong.com,093210592,462155,Pleiku,Gia Lai
+seller_083,Ho Son Giau,ho.son.giau270@thegioididong.com,093925846,351264,Quang Ninh,Quang Ninh
+seller_084,Chu Diem Trang,chu.diem.trang394@thegioididong.com,093414273,801648,Nha Trang,Khanh Hoa
+seller_085,Le Ha Tuong,le.ha.tuong191@thegioididong.com,096779062,193248,Thu Dau Mot,Binh Duong
+seller_086,Mai Huu An,mai.huu.an024@thegioididong.com,094931910,152764,Hue,Thua Thien Hue
+seller_087,Le Le Yen,le.le.yen403@thegioididong.com,092340362,730921,Pleiku,Gia Lai
+seller_088,Tran Phuong Diem,tran.phuong.diem122@thegioididong.com,094014783,176689,Vinh,Nghe An
+seller_089,Dinh Xuan Sang,đinh.xuan.sang026@thegioididong.com,095303834,559850,Nam Dinh,Nam Dinh
+seller_090,Kim Xuan Nhi,kim.xuan.nhi398@thegioididong.com,099044795,385176,Buon Ma Thuot,Dak Lak
+seller_091,To Giang Tu,to.giang.tu106@thegioididong.com,098075164,491157,Quang Ninh,Quang Ninh
+seller_092,Ton Nhat Strong,ton.nhat.strong914@thegioididong.com,094443636,444504,Quy Nhon,Binh Dinh
+seller_093,Ly Le Thuy,ly.le.thuy362@thegioididong.com,091278876,945580,Phan Thiet,Binh Thuan
+seller_094,Ton Hao Quan,ton.hao.quan213@thegioididong.com,095918671,983110,Da Lat,Lam Dong
+seller_095,Le Tung Hieu,le.tung.hieu831@thegioididong.com,096421416,900506,Can Tho,Can Tho
+seller_096,Truong Nam Quoc,truong.nam.quoc906@thegioididong.com,096837069,254874,Vinh,Nghe An
+seller_097,Bui Phuc Nam,bui.phuc.nam018@thegioididong.com,099336454,244350,Tam Ky,Quang Nam
+seller_098,Hoang Phong Duc,hoang.phong.đuc800@thegioididong.com,091840863,969117,Tam Ky,Quang Nam
+seller_099,Nguyen Giang Tuyen,nguyen.giang.tuyen268@thegioididong.com,094066640,155905,Tuy Hoa,Phu Yen
+seller_100,Dang Chi Huong,đang.chi.huong391@thegioididong.com,098345235,478704,Nam Dinh,Nam Dinh
+seller_101,Do Van Kien,đo.van.kien142@thegioididong.com,096522899,774544,Ho Chi Minh City,HCMC
+seller_102,Pham Thu Hong,pham.thu.hong849@thegioididong.com,094573801,285698,Rach Gia,Kien Giang
+seller_103,Thoi Quyen Tuong,thoi.quyen.tuong470@thegioididong.com,092826027,338114,Thu Dau Mot,Binh Duong
+seller_104,Dang Trang Hong,đang.trang.hong335@thegioididong.com,097964400,912879,Thai Nguyen,Thai Nguyen
+seller_105,Ly Duy Bao,ly.duy.bao607@thegioididong.com,095989640,687561,Thai Nguyen,Thai Nguyen
+seller_106,Vi Duyen Trinh,vi.duyen.trinh730@thegioididong.com,098389951,787714,Dong Ha,Quang Tri
+seller_107,Ly Giang Anh,ly.giang.anh694@thegioididong.com,091149574,257523,Pleiku,Gia Lai
+seller_108,Phan The Tai,phan.the.tai924@thegioididong.com,098486687,826731,Nam Dinh,Nam Dinh
+seller_109,Duong Quyen Chi,duong.quyen.chi413@thegioididong.com,095206054,989179,Vung Tau,Ba Ria-Vung Tau
+seller_110,Vi Yen Tuyen,vi.yen.tuyen631@thegioididong.com,095825010,904554,Thanh Hoa,Thanh Hoa
+seller_111,Dang Loc Giau,đang.loc.giau967@thegioididong.com,093941653,707145,Ho Chi Minh City,HCMC
+seller_112,Tran Hao Nghia,tran.hao.nghia552@thegioididong.com,092048765,714607,Ho Chi Minh City,HCMC
+seller_113,Kim Duy Truong,kim.duy.truong502@thegioididong.com,095218884,777207,Da Nang,Da Nang
+seller_114,Ong Dinh Phi,ong.đinh.phi771@thegioididong.com,093746872,484475,Dong Ha,Quang Tri
+seller_115,To Nam Quyet,to.nam.quyet628@thegioididong.com,099758004,921029,Long Xuyen,An Giang
+seller_116,Ho Huu Hoai,ho.huu.hoai915@thegioididong.com,091392605,654874,Buon Ma Thuot,Dak Lak
+seller_117,Quach Xuan Hung,quach.xuan.hung484@thegioididong.com,096757247,564508,Pleiku,Gia Lai
+seller_118,Vo My Trinh,vo.my.trinh136@thegioididong.com,091821963,459633,Long Xuyen,An Giang
+seller_119,Ha Duy Thinh,ha.duy.thinh056@thegioididong.com,095747182,465514,Nam Dinh,Nam Dinh
+seller_120,Kim Hoang Dung,kim.hoang.dung775@thegioididong.com,092604085,413495,Nha Trang,Khanh Hoa
+seller_121,Lam Le Sao,lam.le.sao234@thegioididong.com,092459969,499768,Ha Tinh,Ha Tinh
+seller_122,Ha Oanh Xuan,ha.oanh.xuan202@thegioididong.com,094911089,314858,Can Tho,Can Tho
+seller_123,Phan The Nam,phan.the.nam775@thegioididong.com,091758224,103336,Buon Ma Thuot,Dak Lak
+seller_124,Dang Ngan Lam,đang.ngan.lam100@thegioididong.com,096984533,136670,Hanoi,Hanoi
+seller_125,Kieu Hoang Thang,kieu.hoang.thang717@thegioididong.com,096856433,145580,Nha Trang,Khanh Hoa
+seller_126,Do Hai Tung,đo.hai.tung674@thegioididong.com,093251954,574230,Phan Thiet,Binh Thuan
+seller_127,Truong Huu Thinh,truong.huu.thinh520@thegioididong.com,092157859,370529,Da Nang,Da Nang
+seller_128,Doan Thu Tuong,đoan.thu.tuong221@thegioididong.com,096488033,378626,Nam Dinh,Nam Dinh
+seller_129,Yen Xuan Oanh,yen.xuan.oanh966@thegioididong.com,091217914,659664,Pleiku,Gia Lai
+seller_130,Ong Hao Long,ong.hao.long019@thegioididong.com,097288252,656203,Tam Ky,Quang Nam
+seller_131,Quach Quoc Strong,quach.quoc.strong835@thegioididong.com,093045906,156698,Buon Ma Thuot,Dak Lak
+seller_132,Trinh Hai Khang,trinh.hai.khang173@thegioididong.com,093166811,164993,Hanoi,Hanoi
+seller_133,Bui Long Tu,bui.long.tu495@thegioididong.com,099576906,306921,Quy Nhon,Binh Dinh
+seller_134,Chu Phong Hao,chu.phong.hao351@thegioididong.com,093738503,940329,Thanh Hoa,Thanh Hoa
+seller_135,Trieu Loc An,trieu.loc.an114@thegioididong.com,099921954,480608,Vinh,Nghe An
+seller_136,Doan Yen Nhu,đoan.yen.nhu427@thegioididong.com,091203028,726001,Ho Chi Minh City,HCMC
+seller_137,Dinh Hoai Giang,đinh.hoai.giang499@thegioididong.com,098266254,854889,Nha Trang,Khanh Hoa
+seller_138,Ung Van Vu,ung.van.vu893@thegioididong.com,096679131,499001,Long Xuyen,An Giang
+seller_139,Lam Lan Ai,lam.lan.ai804@thegioididong.com,093734602,751946,Ho Chi Minh City,HCMC
+seller_140,Do Quan Thai,đo.quan.thai958@thegioididong.com,098619136,841654,Thai Nguyen,Thai Nguyen
+seller_141,Bui Cuong Tan,bui.cuong.tan622@thegioididong.com,098252499,421041,Da Lat,Lam Dong
+seller_142,Ngo Hoang Tien,ngo.hoang.tien998@thegioididong.com,094504159,161998,Hanoi,Hanoi
+seller_143,Yen Loc Thanh,yen.loc.thanh958@thegioididong.com,094475577,158521,Buon Ma Thuot,Dak Lak
+seller_144,Vi Anh Lan,vi.anh.lan452@thegioididong.com,093850921,941273,Long Xuyen,An Giang
+seller_145,Nguyen Xuan Giau,nguyen.xuan.giau781@thegioididong.com,095485152,709225,Nha Trang,Khanh Hoa
+seller_146,Cao Duyen Ly,cao.duyen.ly701@thegioididong.com,091879302,274298,Thai Nguyen,Thai Nguyen
+seller_147,Bui Duyen Phong,bui.duyen.phong644@thegioididong.com,092173415,438132,Hue,Thua Thien Hue
+seller_148,Vi Le Trang,vi.le.trang303@thegioididong.com,095306566,179668,Thai Nguyen,Thai Nguyen
+seller_149,Yen Manh Hieu,yen.manh.hieu331@thegioididong.com,093543511,274821,Hue,Thua Thien Hue
+seller_150,Truong Kiet Binh,truong.kiet.binh843@thegioididong.com,093848905,807876,Buon Ma Thuot,Dak Lak
+seller_151,Ong Ha Huyen,ong.ha.huyen616@thegioididong.com,093445485,393033,Rach Gia,Kien Giang
+seller_152,Luu Thanh Manh,luu.thanh.manh056@thegioididong.com,093797792,770186,Dong Ha,Quang Tri
+seller_153,Ngo Thu Quynh,ngo.thu.quynh948@thegioididong.com,097633528,973571,Quang Ninh,Quang Ninh
+seller_154,Yen Anh Bi,yen.anh.bi841@thegioididong.com,092752771,962623,Thu Dau Mot,Binh Duong
+seller_155,Thoi Thanh An,thoi.thanh.an453@thegioididong.com,095266225,475557,Pleiku,Gia Lai
+seller_156,Yen Van Chuong,yen.van.chuong857@thegioididong.com,096660299,427244,Bien Hoa,Dong Nai
+seller_157,Tran Thuy Nghi,tran.thuy.nghi297@thegioididong.com,097320036,242307,Nam Dinh,Nam Dinh
+seller_158,Ha Dinh An,ha.đinh.an523@thegioididong.com,098991854,436649,Buon Ma Thuot,Dak Lak
+seller_159,Ly Le Ha,ly.le.ha435@thegioididong.com,093248842,770692,Pleiku,Gia Lai
+seller_160,Le My Khanh,le.my.khanh155@thegioididong.com,099610229,998255,Thu Dau Mot,Binh Duong
+seller_161,Doan Ngoc Ngoc,đoan.ngoc.ngoc162@thegioididong.com,096146884,369808,Da Nang,Da Nang
+seller_162,Thoi Tuyet Diem,thoi.tuyet.diem254@thegioididong.com,095621912,316021,Tuy Hoa,Phu Yen
+seller_163,Ly Thi Suong,ly.thi.suong755@thegioididong.com,094807406,616161,Tam Ky,Quang Nam
+seller_164,Trinh Manh Thien,trinh.manh.thien765@thegioididong.com,099680282,187624,Hanoi,Hanoi
+seller_165,Do The Xuan,đo.the.xuan160@thegioididong.com,091794108,317029,Dong Ha,Quang Tri
+seller_166,Trieu Anh Trang,trieu.anh.trang999@thegioididong.com,096701061,138377,Hanoi,Hanoi
+seller_167,Doan Phuc Tu,đoan.phuc.tu454@thegioididong.com,094101032,203834,Hai Phong,Hai Phong
+seller_168,Vi Duy Tu,vi.duy.tu981@thegioididong.com,096572324,135386,Hanoi,Hanoi
+seller_169,Bui Tuyet Phong,bui.tuyet.phong924@thegioididong.com,098487457,467547,Dong Hoi,Quang Binh
+seller_170,Vo Anh Anh,vo.anh.anh782@thegioididong.com,091448344,736552,Ho Chi Minh City,HCMC
+seller_171,Le Phuc Truong,le.phuc.truong011@thegioididong.com,094857002,245203,Nha Trang,Khanh Hoa
+seller_172,Trinh Xuan Chinh,trinh.xuan.chinh244@thegioididong.com,092735293,151363,Hanoi,Hanoi
+seller_173,Ung Duy Luan,ung.duy.luan267@thegioididong.com,094523238,596536,Da Lat,Lam Dong
+seller_174,Ha Ngan Tuong,ha.ngan.tuong549@thegioididong.com,092394564,122039,Hanoi,Hanoi
+seller_175,Ung Thao Tuong,ung.thao.tuong526@thegioididong.com,093343150,202931,Buon Ma Thuot,Dak Lak
+seller_176,Dang Hao Tu,đang.hao.tu748@thegioididong.com,092311950,240464,Rach Gia,Kien Giang
+seller_177,Tran Thanh Ngoc,tran.thanh.ngoc502@thegioididong.com,091622888,389173,Quy Nhon,Binh Dinh
+seller_178,Le Anh Tam,le.anh.tam392@thegioididong.com,094576737,151796,Nha Trang,Khanh Hoa
+seller_179,Luu Quynh Sao,luu.quynh.sao239@thegioididong.com,097330766,466414,Can Tho,Can Tho
+seller_180,Kim Diem Phuong,kim.diem.phuong988@thegioididong.com,093364225,740025,Phan Thiet,Binh Thuan
+seller_181,Chu Linh Hien,chu.linh.hien862@thegioididong.com,091562066,292742,Quy Nhon,Binh Dinh
+seller_182,Dinh Thanh Luan,đinh.thanh.luan181@thegioididong.com,092238224,892198,Hai Phong,Hai Phong
+seller_183,Chu Diem Trang,chu.diem.trang031@thegioididong.com,091574479,583173,Vinh,Nghe An
+seller_184,Nguyen Quan Xuan,nguyen.quan.xuan730@thegioididong.com,094152828,764390,Quy Nhon,Binh Dinh
+seller_185,Dinh Phong Kien,đinh.phong.kien368@thegioididong.com,095004811,150975,Hue,Thua Thien Hue
+seller_186,Ha Kim Nhi,ha.kim.nhi753@thegioididong.com,097453958,580875,Hai Phong,Hai Phong
+seller_187,Pham Chi Thuy,pham.chi.thuy575@thegioididong.com,095779028,539381,Rach Gia,Kien Giang
+seller_188,Ung Quan Truong,ung.quan.truong226@thegioididong.com,094633198,140957,Hanoi,Hanoi
+seller_189,Thai Duyen Anh,thai.duyen.anh063@thegioididong.com,093609125,703730,Thanh Hoa,Thanh Hoa
+seller_190,Phan My Nhi,phan.my.nhi494@thegioididong.com,094769286,851673,Quy Nhon,Binh Dinh
+seller_191,Doan Son Tien,đoan.son.tien579@thegioididong.com,098994813,172296,Bien Hoa,Dong Nai
+seller_192,Dinh Giang Sao,đinh.giang.sao611@thegioididong.com,095370011,893395,Ha Tinh,Ha Tinh
+seller_193,Doan My Phuong,đoan.my.phuong828@thegioididong.com,099327604,723261,Buon Ma Thuot,Dak Lak
+seller_194,Luu Giang Nhi,luu.giang.nhi793@thegioididong.com,093990662,764106,Tuy Hoa,Phu Yen
+seller_195,Thoi Phuong Anh,thoi.phuong.anh408@thegioididong.com,099705173,584981,Thanh Hoa,Thanh Hoa
+seller_196,Phan Anh Long,phan.anh.long576@thegioididong.com,093940431,813005,Hue,Thua Thien Hue
+seller_197,Vi Hoang Kien,vi.hoang.kien905@thegioididong.com,094023097,912999,Thanh Hoa,Thanh Hoa
+seller_198,Ho Anh Nghia,ho.anh.nghia273@thegioididong.com,091393283,581044,Tam Ky,Quang Nam
+seller_199,Phan Nam Tan,phan.nam.tan503@thegioididong.com,091397803,698427,Dong Hoi,Quang Binh
+seller_200,Ton Lan Nhu,ton.lan.nhu978@thegioididong.com,099913224,975953,Buon Ma Thuot,Dak Lak
+seller_201,Thai Hoang Khoi,thai.hoang.khoi457@thegioididong.com,099235492,723484,Hai Phong,Hai Phong
+seller_202,Le Thanh Chien,le.thanh.chien726@thegioididong.com,093625943,163474,Da Lat,Lam Dong
+seller_203,Vu Lan Hong,vu.lan.hong509@thegioididong.com,095758928,761604,Thanh Hoa,Thanh Hoa
+seller_204,Lam Van Tung,lam.van.tung688@thegioididong.com,098825505,192919,Can Tho,Can Tho
+seller_205,Cao Diem Bang,cao.diem.bang069@thegioididong.com,099111410,305308,Rach Gia,Kien Giang
+seller_206,Thai Thu Man,thai.thu.man072@thegioididong.com,091886455,412077,Da Lat,Lam Dong
+seller_207,Dang Lan Hong,đang.lan.hong716@thegioididong.com,093715902,640563,Buon Ma Thuot,Dak Lak
+seller_208,Bui Nhat Quyet,bui.nhat.quyet983@thegioididong.com,097283465,589545,Dong Hoi,Quang Binh
+seller_209,Vu Gia Chuong,vu.gia.chuong019@thegioididong.com,094495102,742285,Dong Hoi,Quang Binh
+seller_210,Trieu Anh Thien,trieu.anh.thien670@thegioididong.com,091712309,520577,Vung Tau,Ba Ria-Vung Tau
+seller_211,Hoang The Tu,hoang.the.tu587@thegioididong.com,098188728,454176,Hue,Thua Thien Hue
+seller_212,Cao Thuy Lan,cao.thuy.lan962@thegioididong.com,095290529,884872,Rach Gia,Kien Giang
+seller_213,Dinh Chi Hien,đinh.chi.hien049@thegioididong.com,096021175,253702,Dong Hoi,Quang Binh
+seller_214,Truong Kim Suong,truong.kim.suong108@thegioididong.com,091135484,967356,Buon Ma Thuot,Dak Lak
+seller_215,Tran Kim Hien,tran.kim.hien373@thegioididong.com,097855896,482298,Hai Phong,Hai Phong
+seller_216,Ung Chi Hoa,ung.chi.hoa274@thegioididong.com,092531663,210890,Phan Thiet,Binh Thuan
+seller_217,Bui Duyen Nghi,bui.duyen.nghi496@thegioididong.com,093067728,379390,Hai Phong,Hai Phong
+seller_218,Ton Quyen Man,ton.quyen.man770@thegioididong.com,095397751,137351,Hanoi,Hanoi
+seller_219,Ngo Anh Lam,ngo.anh.lam305@thegioididong.com,095424168,511263,Bien Hoa,Dong Nai
+seller_220,Lam Long Vinh,lam.long.vinh218@thegioididong.com,093283816,738978,Hue,Thua Thien Hue
+seller_221,Nguyen Nhat Thinh,nguyen.nhat.thinh906@thegioididong.com,093603462,319757,Nha Trang,Khanh Hoa
+seller_222,Yen My Phong,yen.my.phong959@thegioididong.com,098482718,104699,Thai Nguyen,Thai Nguyen
+seller_223,Ly Hoai Yen,ly.hoai.yen450@thegioididong.com,093817269,985311,Phan Thiet,Binh Thuan
+seller_224,Chu Tuyet Linh,chu.tuyet.linh643@thegioididong.com,093766990,560132,Da Nang,Da Nang
+seller_225,Quach Nam Thien,quach.nam.thien688@thegioididong.com,097406005,913119,Vung Tau,Ba Ria-Vung Tau
+seller_226,Ung Thien Luan,ung.thien.luan487@thegioididong.com,098682669,169923,Rach Gia,Kien Giang
+seller_227,Trinh Linh Quynh,trinh.linh.quynh178@thegioididong.com,094578291,569358,Long Xuyen,An Giang
+seller_228,Ung Hung Thien,ung.hung.thien430@thegioididong.com,097511964,277292,Tuy Hoa,Phu Yen
+seller_229,Doan Phuc Truong,đoan.phuc.truong651@thegioididong.com,092550491,153053,Can Tho,Can Tho
+seller_230,Kim Duyen Phong,kim.duyen.phong310@thegioididong.com,091027221,792403,Ho Chi Minh City,HCMC
+seller_231,Cao Thao Nga,cao.thao.nga470@thegioididong.com,095219312,880192,Da Lat,Lam Dong
+seller_232,Duong Ngan Chinh,duong.ngan.chinh262@thegioididong.com,098438180,393379,Can Tho,Can Tho
+seller_233,Ong Thien Quyet,ong.thien.quyet054@thegioididong.com,095095338,967925,Nha Trang,Khanh Hoa
+seller_234,Vo Trung Khang,vo.trung.khang050@thegioididong.com,093639404,813731,Quy Nhon,Binh Dinh
+seller_235,Ton Huong Sao,ton.huong.sao230@thegioididong.com,091353688,766961,Ha Tinh,Ha Tinh
+seller_236,Nguyen Minh Thinh,nguyen.minh.thinh721@thegioididong.com,095106650,118691,Nam Dinh,Nam Dinh
+seller_237,Vi Dinh Linh,vi.đinh.linh225@thegioididong.com,094225113,710460,Hai Phong,Hai Phong
+seller_238,Hoang Quyen Huyen,hoang.quyen.huyen388@thegioididong.com,096411631,783005,Nam Dinh,Nam Dinh
+seller_239,Ly Lan Thuy,ly.lan.thuy011@thegioididong.com,098453925,672843,Dong Ha,Quang Tri
+seller_240,Vu Phong Phi,vu.phong.phi531@thegioididong.com,093802857,950151,Rach Gia,Kien Giang
+seller_241,Ong Phong Dung,ong.phong.dung108@thegioididong.com,099315861,603577,Can Tho,Can Tho
+seller_242,Dinh Vy Bang,đinh.vy.bang393@thegioididong.com,094125900,254404,Hue,Thua Thien Hue
+seller_243,Ha Nhat Tan,ha.nhat.tan868@thegioididong.com,098343532,563004,Vung Tau,Ba Ria-Vung Tau
+seller_244,Ngo Quynh Huong,ngo.quynh.huong294@thegioididong.com,098164976,817337,Da Lat,Lam Dong
+seller_245,Thoi Dinh Binh,thoi.đinh.binh519@thegioididong.com,091396434,774619,Quy Nhon,Binh Dinh
+seller_246,Kim Tuyet Bang,kim.tuyet.bang018@thegioididong.com,097604622,227109,Pleiku,Gia Lai
+seller_247,Dang Duy Khang,đang.duy.khang430@thegioididong.com,095662503,669776,Vung Tau,Ba Ria-Vung Tau
+seller_248,Dang Phuc Son,đang.phuc.son124@thegioididong.com,092217987,462029,Dong Ha,Quang Tri
+seller_249,Yen Trung Duc,yen.trung.đuc847@thegioididong.com,094561254,648977,Rach Gia,Kien Giang
+seller_250,Vo Cuong Nhan,vo.cuong.nhan221@thegioididong.com,099818366,621236,Long Xuyen,An Giang
+seller_251,Doan Anh Han,đoan.anh.han146@thegioididong.com,099881905,225260,Tam Ky,Quang Nam
+seller_252,Ly Tung Hoai,ly.tung.hoai711@thegioididong.com,097142120,728071,Dong Ha,Quang Tri
+seller_253,Ngo Quyen Nhu,ngo.quyen.nhu238@thegioididong.com,091486156,326095,Tuy Hoa,Phu Yen
+seller_254,Ung Nhat Phuc,ung.nhat.phuc208@thegioididong.com,099651231,811648,Nha Trang,Khanh Hoa
+seller_255,Ton Hung Tung,ton.hung.tung892@thegioididong.com,094461065,257570,Tam Ky,Quang Nam
+seller_256,Hoang Hung Vu,hoang.hung.vu368@thegioididong.com,091632630,268938,Ha Tinh,Ha Tinh
+seller_257,Vo Nam Tam,vo.nam.tam941@thegioididong.com,093575857,384071,Quy Nhon,Binh Dinh
+seller_258,Ung Kim Tuyen,ung.kim.tuyen935@thegioididong.com,099404829,889589,Dong Ha,Quang Tri
+seller_259,Lam Cuong Hoai,lam.cuong.hoai933@thegioididong.com,095006330,677850,Long Xuyen,An Giang
+seller_260,Hoang The Quyet,hoang.the.quyet151@thegioididong.com,097296988,775543,Quy Nhon,Binh Dinh
+seller_261,Duong Thanh Tien,duong.thanh.tien241@thegioididong.com,095104657,181999,Phan Thiet,Binh Thuan
+seller_262,Ung Tung Kien,ung.tung.kien655@thegioididong.com,093350789,487744,Tuy Hoa,Phu Yen
+seller_263,Lam Hai Linh,lam.hai.linh914@thegioididong.com,093076685,561199,Da Nang,Da Nang
+seller_264,Chu Loc Thai,chu.loc.thai451@thegioididong.com,096159266,671167,Dong Hoi,Quang Binh
+seller_265,Luu Long Hoai,luu.long.hoai256@thegioididong.com,091840841,179163,Hanoi,Hanoi
+seller_266,Hoang Anh Thuy,hoang.anh.thuy257@thegioididong.com,094872212,238151,Vung Tau,Ba Ria-Vung Tau
+seller_267,Vo Yen Bao,vo.yen.bao832@thegioididong.com,092310393,533442,Bien Hoa,Dong Nai
+seller_268,Trinh Huong Cuc,trinh.huong.cuc687@thegioididong.com,094404898,978751,Da Nang,Da Nang
+seller_269,Pham Hung Hieu,pham.hung.hieu280@thegioididong.com,094352189,756725,Phan Thiet,Binh Thuan
+seller_270,Duong Thien Binh,duong.thien.binh306@thegioididong.com,091873376,146702,Phan Thiet,Binh Thuan
+seller_271,Vi Phong Khang,vi.phong.khang439@thegioididong.com,093841548,909780,Phan Thiet,Binh Thuan
+seller_272,Ngo Anh Han,ngo.anh.han280@thegioididong.com,096043804,474645,Can Tho,Can Tho
+seller_273,Ung Giang Gia,ung.giang.gia991@thegioididong.com,095086147,745816,Rach Gia,Kien Giang
+seller_274,Quach Thien Nhan,quach.thien.nhan670@thegioididong.com,098916256,249148,Thu Dau Mot,Binh Duong
+seller_275,Phan Quyen Lan,phan.quyen.lan449@thegioididong.com,098087476,443273,Quy Nhon,Binh Dinh
+seller_276,Nguyen The Yen,nguyen.the.yen228@thegioididong.com,098700056,396865,Thai Nguyen,Thai Nguyen
+seller_277,Ngo Thu Yen,ngo.thu.yen949@thegioididong.com,099045428,766278,Nam Dinh,Nam Dinh
+seller_278,Tran Van Bao,tran.van.bao180@thegioididong.com,092693921,651701,Long Xuyen,An Giang
+seller_279,Vo Anh Lam,vo.anh.lam730@thegioididong.com,098354427,567900,Long Xuyen,An Giang
+seller_280,Nguyen Huu Binh,nguyen.huu.binh115@thegioididong.com,096240336,610135,Quy Nhon,Binh Dinh
+seller_281,Kieu Le Quyen,kieu.le.quyen002@thegioididong.com,093307642,566842,Hue,Thua Thien Hue
+seller_282,Cao Kim Trang,cao.kim.trang401@thegioididong.com,096440195,357634,Vung Tau,Ba Ria-Vung Tau
+seller_283,Kim Hao Chuong,kim.hao.chuong173@thegioididong.com,091004780,748444,Phan Thiet,Binh Thuan
+seller_284,Ngo Quoc Trung,ngo.quoc.trung675@thegioididong.com,093702321,741397,Quang Ninh,Quang Ninh
+seller_285,Pham Gia Hieu,pham.gia.hieu974@thegioididong.com,091613545,740547,Ho Chi Minh City,HCMC
+seller_286,Trieu Van Luan,trieu.van.luan493@thegioididong.com,096410391,654098,Hue,Thua Thien Hue
+seller_287,Vu Ngan Thao,vu.ngan.thao435@thegioididong.com,092925842,681871,Da Nang,Da Nang
+seller_288,Trieu Quoc Luan,trieu.quoc.luan934@thegioididong.com,099235202,911601,Da Lat,Lam Dong
+seller_289,Yen Cuong Hao,yen.cuong.hao788@thegioididong.com,099416518,693279,Bien Hoa,Dong Nai
+seller_290,Tran Hao Vinh,tran.hao.vinh750@thegioididong.com,092780983,401620,Nam Dinh,Nam Dinh
+seller_291,Ton Thanh Phong,ton.thanh.phong689@thegioididong.com,091985520,726345,Bien Hoa,Dong Nai
+seller_292,Ong Thanh Thinh,ong.thanh.thinh518@thegioididong.com,097206769,228463,Hue,Thua Thien Hue
+seller_293,Vo Gia Dat,vo.gia.đat629@thegioididong.com,098461464,222032,Dong Ha,Quang Tri
+seller_294,Duong Gia Xuan,duong.gia.xuan140@thegioididong.com,091485575,159598,Quy Nhon,Binh Dinh
+seller_295,Bui Duyen Huyen,bui.duyen.huyen165@thegioididong.com,092356687,300665,Da Nang,Da Nang
+seller_296,Tran The Hieu,tran.the.hieu597@thegioididong.com,099197572,668110,Bien Hoa,Dong Nai
+seller_297,Pham Long Kien,pham.long.kien627@thegioididong.com,094793624,189115,Hanoi,Hanoi
+seller_298,Kieu Xuan Manh,kieu.xuan.manh177@thegioididong.com,098457239,247222,Thanh Hoa,Thanh Hoa
+seller_299,Le Thao Anh,le.thao.anh257@thegioididong.com,097543394,561280,Nha Trang,Khanh Hoa
+seller_300,Doan Phuc An,đoan.phuc.an240@thegioididong.com,096668992,791251,Rach Gia,Kien Giang
+seller_301,Dang Anh Khanh,đang.anh.khanh760@thegioididong.com,099834397,724559,Ho Chi Minh City,HCMC
+seller_302,Duong Thi Ly,duong.thi.ly113@thegioididong.com,098185201,240159,Thai Nguyen,Thai Nguyen
+seller_303,Ho Thanh Sang,ho.thanh.sang747@thegioididong.com,099621028,723548,Ho Chi Minh City,HCMC
+seller_304,Tran Nam Trung,tran.nam.trung582@thegioididong.com,092940016,382347,Pleiku,Gia Lai
+seller_305,Ton Thi Cuc,ton.thi.cuc491@thegioididong.com,094154593,225216,Quang Ninh,Quang Ninh
+seller_306,Ong Van Truong,ong.van.truong512@thegioididong.com,098664736,595251,Tuy Hoa,Phu Yen
+seller_307,Tran Thuy Tuyen,tran.thuy.tuyen556@thegioididong.com,096396554,425981,Rach Gia,Kien Giang
+seller_308,Phan Quynh Phong,phan.quynh.phong693@thegioididong.com,091925055,964289,Pleiku,Gia Lai
+seller_309,Phan Phong Phong,phan.phong.phong669@thegioididong.com,097803957,544747,Vinh,Nghe An
+seller_310,Mai Huong Chinh,mai.huong.chinh495@thegioididong.com,094501666,248340,Ha Tinh,Ha Tinh
+seller_311,Ho Loc Hoai,ho.loc.hoai234@thegioididong.com,095231351,882536,Ha Tinh,Ha Tinh
+seller_312,Doan Duyen Chinh,đoan.duyen.chinh912@thegioididong.com,096958651,589533,Thai Nguyen,Thai Nguyen
+seller_313,Le Anh Duc,le.anh.đuc321@thegioididong.com,092586299,163300,Hue,Thua Thien Hue
+seller_314,Thai My Tuyen,thai.my.tuyen553@thegioididong.com,096041693,234933,Bien Hoa,Dong Nai
+seller_315,Mai Lan Bao,mai.lan.bao182@thegioididong.com,096211806,889585,Thai Nguyen,Thai Nguyen
+seller_316,Trinh Long Tai,trinh.long.tai363@thegioididong.com,091542407,900881,Pleiku,Gia Lai
+seller_317,Thoi Vy Ngoc,thoi.vy.ngoc800@thegioididong.com,098532888,191051,Vung Tau,Ba Ria-Vung Tau
+seller_318,Thoi Nam Thien,thoi.nam.thien275@thegioididong.com,092656754,215762,Nha Trang,Khanh Hoa
+seller_319,Vu Long Thai,vu.long.thai484@thegioididong.com,099052426,903994,Tam Ky,Quang Nam
+seller_320,Vi Thanh Khiem,vi.thanh.khiem093@thegioididong.com,099383538,658805,Da Lat,Lam Dong
+seller_321,Phan Yen Nghi,phan.yen.nghi912@thegioididong.com,091688353,934960,Da Nang,Da Nang
+seller_322,Ong Nam Quoc,ong.nam.quoc709@thegioididong.com,093033888,781930,Ho Chi Minh City,HCMC
+seller_323,Duong Gia Quyet,duong.gia.quyet509@thegioididong.com,097770418,208735,Hai Phong,Hai Phong
+seller_324,Hoang Thuy Trinh,hoang.thuy.trinh590@thegioididong.com,098323386,832090,Vung Tau,Ba Ria-Vung Tau
+seller_325,Cao Duyen Luu,cao.duyen.luu844@thegioididong.com,093514222,847673,Tuy Hoa,Phu Yen
+seller_326,To Gia Nhan,to.gia.nhan472@thegioididong.com,092942400,626236,Nha Trang,Khanh Hoa
+seller_327,Chu Thuy Oanh,chu.thuy.oanh624@thegioididong.com,094195347,145148,Hai Phong,Hai Phong
+seller_328,Bui Ngoc Thu,bui.ngoc.thu587@thegioididong.com,097055635,423613,Buon Ma Thuot,Dak Lak
+seller_329,Bui Trung Sang,bui.trung.sang061@thegioididong.com,096625933,780846,Pleiku,Gia Lai
+seller_330,Luu Duyen Gia,luu.duyen.gia023@thegioididong.com,098361243,673755,Tam Ky,Quang Nam
+seller_331,Vo Kim Huyen,vo.kim.huyen737@thegioididong.com,098210976,353748,Rach Gia,Kien Giang
+seller_332,Ong Thuy Lam,ong.thuy.lam289@thegioididong.com,096277528,297986,Long Xuyen,An Giang
+seller_333,Ung Phuc Thien,ung.phuc.thien544@thegioididong.com,093665555,394782,Pleiku,Gia Lai
+seller_334,Kieu Duy Vinh,kieu.duy.vinh052@thegioididong.com,094584301,292113,Thai Nguyen,Thai Nguyen
+seller_335,Cao Anh Trinh,cao.anh.trinh120@thegioididong.com,096322248,972123,Long Xuyen,An Giang
+seller_336,Trieu Ngan Kieu,trieu.ngan.kieu924@thegioididong.com,091789379,323129,Phan Thiet,Binh Thuan
+seller_337,Trinh Kim Tu,trinh.kim.tu613@thegioididong.com,099232889,112602,Hanoi,Hanoi
+seller_338,Vi Long Khoi,vi.long.khoi716@thegioididong.com,091876616,397973,Da Lat,Lam Dong
+seller_339,Duong Trung Luan,duong.trung.luan046@thegioididong.com,094589253,703531,Ho Chi Minh City,HCMC
+seller_340,Kim Kiet Xuan,kim.kiet.xuan766@thegioididong.com,097407817,479492,Quang Ninh,Quang Ninh
+seller_341,Ung Lan Yen,ung.lan.yen108@thegioididong.com,098488282,265278,Quy Nhon,Binh Dinh
+seller_342,Lam Ngan Hoa,lam.ngan.hoa923@thegioididong.com,096062522,888706,Bien Hoa,Dong Nai
+seller_343,Vi Kiet Bao,vi.kiet.bao903@thegioididong.com,093786086,512667,Ha Tinh,Ha Tinh
+seller_344,Thoi Ha Tuyen,thoi.ha.tuyen981@thegioididong.com,094192076,256934,Quang Ninh,Quang Ninh
+seller_345,Truong Quan Hao,truong.quan.hao994@thegioididong.com,099266706,656471,Thai Nguyen,Thai Nguyen
+seller_346,Ngo Thuy Thao,ngo.thuy.thao508@thegioididong.com,096100994,113122,Vung Tau,Ba Ria-Vung Tau
+seller_347,Mai Thanh Tung,mai.thanh.tung390@thegioididong.com,093312457,270640,Thu Dau Mot,Binh Duong
+seller_348,Kieu Trung Giau,kieu.trung.giau453@thegioididong.com,099545331,348413,Buon Ma Thuot,Dak Lak
+seller_349,Pham Chi Nhi,pham.chi.nhi194@thegioididong.com,093086398,180316,Hue,Thua Thien Hue
+seller_350,Yen Linh Man,yen.linh.man879@thegioididong.com,093569443,511307,Hue,Thua Thien Hue
+seller_351,Vo Quynh Tien,vo.quynh.tien119@thegioididong.com,098467704,773623,Ho Chi Minh City,HCMC
+seller_352,Dang Thien Thinh,đang.thien.thinh991@thegioididong.com,094154721,699557,Thu Dau Mot,Binh Duong
+seller_353,Bui Kiet Thien,bui.kiet.thien674@thegioididong.com,094537895,307291,Thanh Hoa,Thanh Hoa
+seller_354,Dang Hao Trung,đang.hao.trung695@thegioididong.com,091428892,171466,Dong Hoi,Quang Binh
+seller_355,Lam Van Nam,lam.van.nam914@thegioididong.com,098418581,481384,Nam Dinh,Nam Dinh
+seller_356,Lam Duyen Chi,lam.duyen.chi280@thegioididong.com,099616660,114015,Vinh,Nghe An
+seller_357,Chu Quoc Truong,chu.quoc.truong168@thegioididong.com,098882785,553308,Nam Dinh,Nam Dinh
+seller_358,Do Xuan Vinh,đo.xuan.vinh669@thegioididong.com,092655961,493939,Thai Nguyen,Thai Nguyen
+seller_359,Vo Ha Chinh,vo.ha.chinh500@thegioididong.com,095909227,766868,Thu Dau Mot,Binh Duong
+seller_360,Nguyen Lan Hien,nguyen.lan.hien927@thegioididong.com,096329573,176554,Hai Phong,Hai Phong
+seller_361,Ha Gia Huy,ha.gia.huy756@thegioididong.com,094849095,942763,Dong Hoi,Quang Binh
+seller_362,Luu Quoc Tan,luu.quoc.tan786@thegioididong.com,093348449,198125,Rach Gia,Kien Giang
+seller_363,Lam Diem Xuan,lam.diem.xuan994@thegioididong.com,095677940,990629,Buon Ma Thuot,Dak Lak
+seller_364,Doan Hoai Vy,đoan.hoai.vy826@thegioididong.com,098882455,162699,Quy Nhon,Binh Dinh
+seller_365,Ha Van Chuong,ha.van.chuong798@thegioididong.com,097906684,144806,Quang Ninh,Quang Ninh
+seller_366,Chu Duyen Thu,chu.duyen.thu329@thegioididong.com,093509291,951388,Phan Thiet,Binh Thuan
+seller_367,Vo Anh Vinh,vo.anh.vinh539@thegioididong.com,095183549,956309,Tam Ky,Quang Nam
+seller_368,Vu Le Linh,vu.le.linh281@thegioididong.com,093971894,889630,Buon Ma Thuot,Dak Lak
+seller_369,Ung Loc Phi,ung.loc.phi648@thegioididong.com,097748498,397164,Ha Tinh,Ha Tinh
+seller_370,Thai Minh Quyet,thai.minh.quyet360@thegioididong.com,094862161,478822,Dong Hoi,Quang Binh
+seller_371,Duong Thanh Khang,duong.thanh.khang541@thegioididong.com,096441176,645876,Quang Ninh,Quang Ninh
+seller_372,Hoang Trang Thao,hoang.trang.thao556@thegioididong.com,099983078,101207,Nam Dinh,Nam Dinh
+seller_373,Yen Dinh Manh,yen.đinh.manh761@thegioididong.com,093899556,345928,Quang Ninh,Quang Ninh
+seller_374,Le Thu Lan,le.thu.lan780@thegioididong.com,091859149,885282,Ha Tinh,Ha Tinh
+seller_375,Thai Loc Thanh,thai.loc.thanh668@thegioididong.com,096824724,871985,Hue,Thua Thien Hue
+seller_376,Bui Phuong Trang,bui.phuong.trang441@thegioididong.com,094866940,390366,Tuy Hoa,Phu Yen
+seller_377,Truong Ha Tu,truong.ha.tu317@thegioididong.com,094432376,816199,Nha Trang,Khanh Hoa
+seller_378,Vo Hai Chuong,vo.hai.chuong624@thegioididong.com,094796062,415914,Ha Tinh,Ha Tinh
+seller_379,Hoang Dinh Dat,hoang.đinh.đat169@thegioididong.com,095766857,374508,Pleiku,Gia Lai
+seller_380,Chu Thanh Tien,chu.thanh.tien393@thegioididong.com,091755757,727950,Vung Tau,Ba Ria-Vung Tau
+seller_381,Yen Minh Long,yen.minh.long422@thegioididong.com,097670160,518873,Da Nang,Da Nang
+seller_382,Kieu Hoai Diem,kieu.hoai.diem388@thegioididong.com,098919868,857681,Nha Trang,Khanh Hoa
+seller_383,Ton Loc Son,ton.loc.son551@thegioididong.com,095843359,558441,Rach Gia,Kien Giang
+seller_384,To Xuan Xuan,to.xuan.xuan278@thegioididong.com,096536791,521375,Hai Phong,Hai Phong
+seller_385,Truong Son Yen,truong.son.yen994@thegioididong.com,096443936,616566,Nha Trang,Khanh Hoa
+seller_386,Yen My Huyen,yen.my.huyen519@thegioididong.com,096860060,902630,Can Tho,Can Tho
+seller_387,Le Ngan Bang,le.ngan.bang839@thegioididong.com,095719089,766644,Hue,Thua Thien Hue
+seller_388,Tran Ngoc Mai,tran.ngoc.mai393@thegioididong.com,094971502,237912,Buon Ma Thuot,Dak Lak
+seller_389,Thoi Oanh Tuyen,thoi.oanh.tuyen580@thegioididong.com,099954494,240906,Tuy Hoa,Phu Yen
+seller_390,Phan Le Huyen,phan.le.huyen406@thegioididong.com,095269972,966686,Ha Tinh,Ha Tinh
+seller_391,Pham Linh Truc,pham.linh.truc708@thegioididong.com,091556631,338633,Vinh,Nghe An
+seller_392,Ly Phuong Luu,ly.phuong.luu771@thegioididong.com,091909143,537010,Tam Ky,Quang Nam
+seller_393,Ung Vy Thao,ung.vy.thao565@thegioididong.com,097088899,552277,Bien Hoa,Dong Nai
+seller_394,Bui Lan Suong,bui.lan.suong219@thegioididong.com,094272661,631157,Hue,Thua Thien Hue
+seller_395,Dang Son Tien,đang.son.tien065@thegioididong.com,091824399,965011,Quang Ninh,Quang Ninh
+seller_396,Truong Tuyet Giang,truong.tuyet.giang608@thegioididong.com,097037008,761613,Quy Nhon,Binh Dinh
+seller_397,Thai Tuyet Nhi,thai.tuyet.nhi717@thegioididong.com,093046752,795848,Ho Chi Minh City,HCMC
+seller_398,Ung Huong Mai,ung.huong.mai194@thegioididong.com,092650270,742581,Hue,Thua Thien Hue
+seller_399,Ong Nhat Hoai,ong.nhat.hoai330@thegioididong.com,098582361,148952,Buon Ma Thuot,Dak Lak
+seller_400,Yen Thanh An,yen.thanh.an390@thegioididong.com,099362522,460300,Quy Nhon,Binh Dinh
+seller_401,Tran Hoai Man,tran.hoai.man667@thegioididong.com,096927578,546239,Phan Thiet,Binh Thuan
+seller_402,Kim Manh Tai,kim.manh.tai643@thegioididong.com,096689585,875876,Long Xuyen,An Giang
+seller_403,Le Le Trang,le.le.trang961@thegioididong.com,095628032,505760,Buon Ma Thuot,Dak Lak
+seller_404,Dinh Quyen Truc,đinh.quyen.truc336@thegioididong.com,092524192,198668,Hue,Thua Thien Hue
+seller_405,Trinh Nhat Thien,trinh.nhat.thien416@thegioididong.com,095323836,366367,Nha Trang,Khanh Hoa
+seller_406,Duong Cuong Khoa,duong.cuong.khoa934@thegioididong.com,092172470,625187,Ha Tinh,Ha Tinh
+seller_407,Tran Minh Hung,tran.minh.hung153@thegioididong.com,097598417,419447,Da Lat,Lam Dong
+seller_408,Ho Phuong Bi,ho.phuong.bi961@thegioididong.com,098804719,556632,Thai Nguyen,Thai Nguyen
+seller_409,Tran Dinh Tam,tran.đinh.tam535@thegioididong.com,092257875,686859,Tuy Hoa,Phu Yen
+seller_410,Quach Phuc Bao,quach.phuc.bao716@thegioididong.com,093087809,920462,Bien Hoa,Dong Nai
+seller_411,Ngo Thanh Bang,ngo.thanh.bang381@thegioididong.com,096016500,120865,Thanh Hoa,Thanh Hoa
+seller_412,Bui Anh Kieu,bui.anh.kieu700@thegioididong.com,097729511,786753,Nha Trang,Khanh Hoa
+seller_413,Phan Ngan Dung,phan.ngan.dung279@thegioididong.com,091603297,767692,Ho Chi Minh City,HCMC
+seller_414,Ha Le Anh,ha.le.anh137@thegioididong.com,094321106,497294,Buon Ma Thuot,Dak Lak
+seller_415,Dang Nhat Khoi,đang.nhat.khoi663@thegioididong.com,095022956,292897,Vung Tau,Ba Ria-Vung Tau
+seller_416,Do Thi Quynh,đo.thi.quynh183@thegioididong.com,092983249,759316,Tam Ky,Quang Nam
+seller_417,Mai Long Tri,mai.long.tri112@thegioididong.com,098905894,641611,Can Tho,Can Tho
+seller_418,Ong Trang Gia,ong.trang.gia767@thegioididong.com,092611104,316478,Long Xuyen,An Giang
+seller_419,Kieu Vy Bang,kieu.vy.bang884@thegioididong.com,096619210,791778,Da Lat,Lam Dong
+seller_420,Phan Kiet Tri,phan.kiet.tri244@thegioididong.com,098476378,950408,Tuy Hoa,Phu Yen
+seller_421,Truong Duyen Kieu,truong.duyen.kieu495@thegioididong.com,099853852,151190,Quang Ninh,Quang Ninh
+seller_422,Bui Ngan Giang,bui.ngan.giang968@thegioididong.com,092417444,795652,Pleiku,Gia Lai
+seller_423,Nguyen Nhat Thang,nguyen.nhat.thang778@thegioididong.com,095818127,522413,Da Nang,Da Nang
+seller_424,Hoang Manh Binh,hoang.manh.binh737@thegioididong.com,097257719,769922,Da Nang,Da Nang
+seller_425,Ly Hao Duc,ly.hao.đuc987@thegioididong.com,096711109,564604,Tam Ky,Quang Nam
+seller_426,Trieu Manh Chien,trieu.manh.chien296@thegioididong.com,099294010,132283,Hanoi,Hanoi
+seller_427,Le Thanh Thinh,le.thanh.thinh260@thegioididong.com,092264144,622500,Vung Tau,Ba Ria-Vung Tau
+seller_428,Ha Long Strong,ha.long.strong104@thegioididong.com,099954492,593120,Tam Ky,Quang Nam
+seller_429,Trieu Quynh Man,trieu.quynh.man303@thegioididong.com,098266722,776751,Da Lat,Lam Dong
+seller_430,Ung Lan Chi,ung.lan.chi467@thegioididong.com,091920302,785237,Hai Phong,Hai Phong
+seller_431,Phan Phuc Dat,phan.phuc.đat581@thegioididong.com,097791740,577733,Tam Ky,Quang Nam
+seller_432,Do Phuc Khang,đo.phuc.khang111@thegioididong.com,095367532,774435,Da Nang,Da Nang
+seller_433,Ung Van Phi,ung.van.phi282@thegioididong.com,094902903,422057,Vung Tau,Ba Ria-Vung Tau
+seller_434,Ton Phuong Tuyen,ton.phuong.tuyen856@thegioididong.com,095701863,676106,Can Tho,Can Tho
+seller_435,Dang Cuong Quan,đang.cuong.quan323@thegioididong.com,093304948,913492,Thu Dau Mot,Binh Duong
+seller_436,Yen Manh Phong,yen.manh.phong139@thegioididong.com,098261929,897314,Thai Nguyen,Thai Nguyen
+seller_437,Pham Thanh Quyet,pham.thanh.quyet372@thegioididong.com,094503621,391919,Thu Dau Mot,Binh Duong
+seller_438,Dang Dinh Tung,đang.đinh.tung956@thegioididong.com,093586225,461561,Can Tho,Can Tho
+seller_439,Ha Thanh Kien,ha.thanh.kien212@thegioididong.com,095475944,868404,Ha Tinh,Ha Tinh
+seller_440,Trinh Loc Vu,trinh.loc.vu550@thegioididong.com,096334877,995583,Dong Hoi,Quang Binh
+seller_441,Cao Chi Yen,cao.chi.yen043@thegioididong.com,099610150,516987,Hai Phong,Hai Phong
+seller_442,Do Anh Hoai,đo.anh.hoai517@thegioididong.com,096586389,766022,Ho Chi Minh City,HCMC
+seller_443,Bui Xuan Tuyen,bui.xuan.tuyen465@thegioididong.com,096156783,811198,Tam Ky,Quang Nam
+seller_444,Hoang Yen Nhi,hoang.yen.nhi949@thegioididong.com,098144397,972288,Ha Tinh,Ha Tinh
+seller_445,Yen Thuy Dung,yen.thuy.dung296@thegioididong.com,099353943,413955,Da Nang,Da Nang
+seller_446,Doan Minh Quyet,đoan.minh.quyet156@thegioididong.com,091665315,266897,Vung Tau,Ba Ria-Vung Tau
+seller_447,Ly Gia Kien,ly.gia.kien066@thegioididong.com,097505772,646052,Tuy Hoa,Phu Yen
+seller_448,Ly Long Chuong,ly.long.chuong448@thegioididong.com,098466777,748303,Vinh,Nghe An
+seller_449,Lam Hoang Yen,lam.hoang.yen480@thegioididong.com,099368824,780725,Quy Nhon,Binh Dinh
+seller_450,To Duy Son,to.duy.son068@thegioididong.com,096777786,928777,Tam Ky,Quang Nam
+seller_451,Duong Son Trung,duong.son.trung614@thegioididong.com,094748136,535267,Quy Nhon,Binh Dinh
+seller_452,Ha Son Vinh,ha.son.vinh565@thegioididong.com,099110718,749979,Nha Trang,Khanh Hoa
+seller_453,Truong Xuan Binh,truong.xuan.binh702@thegioididong.com,092395199,739226,Hai Phong,Hai Phong
+seller_454,Trieu Hoai Bang,trieu.hoai.bang487@thegioididong.com,096338438,460914,Quang Ninh,Quang Ninh
+seller_455,Vo Huu Quan,vo.huu.quan942@thegioididong.com,095929455,250930,Thai Nguyen,Thai Nguyen
+seller_456,Phan Thanh Hao,phan.thanh.hao780@thegioididong.com,099602293,777134,Ho Chi Minh City,HCMC
+seller_457,Yen Huong Bao,yen.huong.bao236@thegioididong.com,091940478,886388,Thai Nguyen,Thai Nguyen
+seller_458,Truong Tuyet Xuan,truong.tuyet.xuan331@thegioididong.com,096633383,816047,Vinh,Nghe An
+seller_459,Ly Phuong Ngoc,ly.phuong.ngoc543@thegioididong.com,096366352,965727,Vinh,Nghe An
+seller_460,Luu Vy Mai,luu.vy.mai886@thegioididong.com,098491040,453206,Quy Nhon,Binh Dinh
+seller_461,Ha Cuong Tien,ha.cuong.tien909@thegioididong.com,093587013,150236,Hanoi,Hanoi
+seller_462,Phan Giang Ngoc,phan.giang.ngoc828@thegioididong.com,094493096,497465,Dong Ha,Quang Tri
+seller_463,Thoi Chi Nga,thoi.chi.nga597@thegioididong.com,098676869,958419,Phan Thiet,Binh Thuan
+seller_464,Ha Anh Anh,ha.anh.anh586@thegioididong.com,093124561,437829,Nha Trang,Khanh Hoa
+seller_465,Ung The Khiem,ung.the.khiem314@thegioididong.com,097599273,643852,Dong Ha,Quang Tri
+seller_466,Ngo Tung Phuc,ngo.tung.phuc444@thegioididong.com,099648360,814292,Tuy Hoa,Phu Yen
+seller_467,Ly Quoc Khiem,ly.quoc.khiem391@thegioididong.com,097918363,213594,Buon Ma Thuot,Dak Lak
+seller_468,Trinh My Quyen,trinh.my.quyen083@thegioididong.com,093232811,709246,Dong Ha,Quang Tri
+seller_469,Kieu Huu Dai,kieu.huu.đai715@thegioididong.com,097851299,690834,Dong Hoi,Quang Binh
+seller_470,Ong Xuan Quynh,ong.xuan.quynh780@thegioididong.com,094801622,722810,Ha Tinh,Ha Tinh
+seller_471,Hoang Nhat Nghia,hoang.nhat.nghia427@thegioididong.com,099527275,788954,Dong Ha,Quang Tri
+seller_472,Mai Van Giau,mai.van.giau539@thegioididong.com,097274774,904524,Vung Tau,Ba Ria-Vung Tau
+seller_473,Doan Duy Duc,đoan.duy.đuc673@thegioididong.com,097231036,997923,Dong Ha,Quang Tri
+seller_474,Doan Tuyet Thuy,đoan.tuyet.thuy244@thegioididong.com,092000496,526821,Dong Ha,Quang Tri
+seller_475,Tran Chi Ngoc,tran.chi.ngoc151@thegioididong.com,096192368,355870,Tam Ky,Quang Nam
+seller_476,Ung Son Kien,ung.son.kien605@thegioididong.com,098461085,708212,Buon Ma Thuot,Dak Lak
+seller_477,Bui Thuy Anh,bui.thuy.anh627@thegioididong.com,097825304,170762,Nha Trang,Khanh Hoa
+seller_478,Quach Quan Truong,quach.quan.truong058@thegioididong.com,095172241,547042,Phan Thiet,Binh Thuan
+seller_479,Dang Phuong Diem,đang.phuong.diem920@thegioididong.com,091032055,656084,Rach Gia,Kien Giang
+seller_480,Quach Phuong Cuc,quach.phuong.cuc923@thegioididong.com,099699692,354793,Rach Gia,Kien Giang
+seller_481,Vi Hoang Truong,vi.hoang.truong743@thegioididong.com,094988270,816676,Dong Ha,Quang Tri
+seller_482,Yen Ngoc Lam,yen.ngoc.lam306@thegioididong.com,094126480,939027,Vinh,Nghe An
+seller_483,Vu Hung Thien,vu.hung.thien936@thegioididong.com,091370524,240164,Buon Ma Thuot,Dak Lak
+seller_484,Vi Phong Chien,vi.phong.chien736@thegioididong.com,092386921,866558,Hai Phong,Hai Phong
+seller_485,Kim Huu Quoc,kim.huu.quoc982@thegioididong.com,098587071,552375,Dong Ha,Quang Tri
+seller_486,Ho Kiet Yen,ho.kiet.yen281@thegioididong.com,093585807,324809,Dong Hoi,Quang Binh
+seller_487,Duong Ha Huyen,duong.ha.huyen270@thegioididong.com,091396078,638679,Thanh Hoa,Thanh Hoa
+seller_488,To Phuong Chinh,to.phuong.chinh345@thegioididong.com,098475032,763952,Buon Ma Thuot,Dak Lak
+seller_489,Thoi Phong Binh,thoi.phong.binh462@thegioididong.com,097795844,293570,Vung Tau,Ba Ria-Vung Tau
+seller_490,Ong Hoai Nga,ong.hoai.nga099@thegioididong.com,095508582,939275,Dong Hoi,Quang Binh
+seller_491,Quach Thanh Tien,quach.thanh.tien981@thegioididong.com,096609296,589179,Can Tho,Can Tho
+seller_492,To Trung Tuan,to.trung.tuan123@thegioididong.com,095200546,891118,Thanh Hoa,Thanh Hoa
+seller_493,Vu Kim Thao,vu.kim.thao625@thegioididong.com,097074483,537105,Vung Tau,Ba Ria-Vung Tau
+seller_494,Ung Huong Trinh,ung.huong.trinh616@thegioididong.com,097987326,901005,Hai Phong,Hai Phong
+seller_495,Lam Chi Huyen,lam.chi.huyen193@thegioididong.com,099587623,199388,Tuy Hoa,Phu Yen
+seller_496,Quach Tuyet Xuan,quach.tuyet.xuan231@thegioididong.com,096622554,861043,Pleiku,Gia Lai
+seller_497,Vo Oanh Hoai,vo.oanh.hoai285@thegioididong.com,092632192,712381,Ho Chi Minh City,HCMC
+seller_498,Bui Hoang Manh,bui.hoang.manh089@thegioididong.com,093675166,345138,Tam Ky,Quang Nam
+seller_499,Dang Diem Trang,đang.diem.trang859@thegioididong.com,098114041,500452,Long Xuyen,An Giang
+seller_500,Ong Thi Tuong,ong.thi.tuong273@thegioididong.com,094476756,963462,Quy Nhon,Binh Dinh
