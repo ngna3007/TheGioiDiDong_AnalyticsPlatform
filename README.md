@@ -1,7 +1,6 @@
 # DevOps Pipeline for The Gioi Di Dong Customer Data Analytics Platform
 
 COS40006 - Computing Technology Project
-Semester 1, 2024-2025
 Swinburne University of Technology
 
 ## Team Members - Group 4
